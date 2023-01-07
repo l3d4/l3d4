@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @l3d4
-- 👀 I’m interested in kind of everything.
-- 🌱 I’m currently learning Java, Docker and Linux administration.
-- 💞️ I’m "lurking around" yet
-- 📫 ...
+hola
 
 <!---
 l3d4/l3d4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
